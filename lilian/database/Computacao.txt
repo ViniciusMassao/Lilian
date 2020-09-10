@@ -1,0 +1,29 @@
+Big Data.
+Tipos não estruturados de Dados.
+Processadores Quânticos.
+Computação quântica.
+Blockchain.
+Realidade aumentada.
+Inteligência Artificial.
+Computação Gráfica.
+Compiladores.
+Grafos.
+Processamento de Linguagem Natural.
+Aprendizagem de Máquina.
+Segurança de Dados e Criptografia.
+Redes de Computadores.
+Informática na Educação.
+Computação em Nuvem.
+Computação Verde.
+Computação Ubíqua.
+Processos de Busca.
+Biotecnologia.
+Computação Musical.
+Métodos Computacionais de Otimização.
+Tecnologia na ajuda no tratamento e prevenção de doenças.
+Mineração de Dados.
+Computação Paralela.
+Interação Homem-computador.
+Computação Biológica.
+
+

@@ -1,0 +1,27 @@
+Soundtrack 8 bits.
+Soundtrack 16 bits.
+Wireframe de personagem.
+Sprite sheet.
+Plataformer.
+Textura de objeto.
+Design de mapa.
+Ações de personagem.
+IA de movimentação de inimigos.
+IA de movimentação de NPCs.
+Storyboarding.
+Soundtrack remixing.
+Dungeoncrawler.
+Puzzle.
+Top-down shotter.
+Bullet hell.
+Jogo mobile sem fim.
+RPG de texto.
+Historyboarding.
+Concept art.
+Visual novel.
+Tower defense.
+RPG classico.
+Debug.
+Fake multiplayer (jogos io).
+Arcade.
+Survival.

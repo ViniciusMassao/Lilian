@@ -1,0 +1,25 @@
+O reino monera é formado por bactérias, cianobactérias e arqueobactérias (também chamadas arqueas), todos seres muito simples, unicelulares e com célula procariótica (sem núcleo diferenciado).
+Os protozoários são seres unicelulares e eucariontes, com estrutura que garante seu funcionamento, realizando as mesmas tarefas básicas de um animal, como respiração, digestão, circulação, excreção, em alguns até uma primitiva coordenação.
+Os fungos parasitas das plantas possuem hifas especializadas - haustórios - que penetram nas células do hospedeiro usando os estomas como porta de entrada para a estrutura vegetal.
+As plantas, juntamente com outros seres fotossintetizantes, são produtoras de matéria orgânica que nutre a maioria dos seres vivos da Terra, atuando na base das cadeias alimentares.
+Os animais são organismos multicelulares, eucariontes e que apresentam nutrição heterotrófica, ou seja, não são capazes de produzir seu próprio alimento.
+Felinos é como chamamos a família de mamíferos Felidae, que é dividida em duas subfamílias: Pantherinae (abrange os leões, tigres, onças pintadas, leopardos) e Felinae (abrange as onças pardas, jaguatiricas, linces, guepardos e gatos domésticos).
+Os cães são quadrúpedes e digitígrados, ou seja, o corpo é sustentado nos quatro membros, eles locomovem-se sobre os dedos e não tocam o chão com os pés e as mãos (popularmente chamados de patas) completos.
+Evolução biológica é a adaptação das espécies a meios em contínua mudança.
+A Biologia Celular, também chamada de Citologia, é a parte da Biologia que se dedica ao estudo das células e suas estruturas.
+A biologia molecular diz respeito à base molecular da atividade biológica entre biomoléculas nos vários sistemas de uma célula, incluindo as interações entre DNA, RNA, proteínas e sua biossíntese, bem como a regulação dessas interações.
+A Ecologia é a especialidade da biologia que estuda o meio ambiente e os seres vivos que vivem nele, ou seja, é o estudo científico da distribuição e abundância dos seres vivos e das interações que determinam a sua distribuição.
+Em genética, hereditariedade é o conjunto de processos biológicos que asseguram que cada ser vivo receba e transmita informações genéticas através da reprodução.
+A bioquímica estuda todas as transformações moleculares, chamadas de metabolismo, que são necessárias para a sobrevivência e reprodução dos seres vivos.
+A bioquímica estuda a estrutura molecular e a função metabólica de proteínas, enzimas, carboidratos, lipídios, ácidos nucleicos e outros. 
+Bioquímica é o ramo da Biologia e da química, que é responsável pelo estudo de todos os processos químicos que acontecem nos organismos vivos.
+A genética molecular é a área dentro da genética que estuda a estrutura e a função dos genes em nível molecular, utilizando métodos da genética e da biologia molecular.
+Anatomia é o campo da biologia que estuda a organização estrutural dos seres vivos, incluindo os sistemas, órgãos e tecidos que os constituem, a aparência e posição das várias partes, as substâncias de que são feitos, a sua localização e a sua relação com outras partes do corpo.
+A histologia é a ciência da estrutura microscópica das células, tecidos e órgãos.
+A fisiologia humana preocupa-se com o entendimento do funcionamento do corpo humano, integrando, desse modo, conhecimentos químicos, físicos e, é claro, anatômicos.
+A fisiologia vegetal é a parte da Botânica que estuda todos os processos que ocorrem em um vegetal, permitindo, desse modo, o entendimento de como as plantas funcionam.
+Os protozoários são organismos unicelulares, eucarióticos e que apresentam nutrição heterotrófica.
+A locomoção de muitas bactérias ocorre por batimento flagelar, longos filamentos formados por fibrila, um arranjo estrutural diferenciado dos flagelos de eucariotos.
+Os vírus multiplicam-se no interior das células infectadas graças à inserção de seu material genético, que passa a comandar o metabolismo da célula hospedeira.
+Cada anticorpo atua de forma específica, ligando-se apenas a um determinado antígeno.
+

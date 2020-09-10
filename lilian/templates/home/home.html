@@ -1,0 +1,15 @@
+<html>
+    <head>
+        <meta charset = "utf-8">
+        <title>Lilian</title>
+    </head>
+    <body>
+        <h1>Hello There!</h1>
+            <form method = "post">
+                {% csrf_token %}
+                {{form}}
+                <button type = "select">Gerar</button>
+            </form>
+            <h2>{{phrase}}</h2>
+    </body>
+</html>
